@@ -2,7 +2,6 @@
 
 My blog 🌿: https://medium.com/@kenysglobal
 
-Youtube 📹: https://www.youtube.com/channel/UCVvBR6ody_zZ4uz9E5QcHKA
 <!--
 **JessieCasey/JessieCasey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
